@@ -1,9 +1,4 @@
 1-
-package testes;
-
-import java.util.Scanner;
-
-public class eaicumparssa {
 
 	public static void main(String[] Args) {
 		Scanner sc = new Scanner(System.in);
@@ -17,14 +12,9 @@ public class eaicumparssa {
 	    }
 	    
 	}
-}
+ 
 -------------------------------------------------------------------------------------------
 2-
-package testes;
-
-import java.util.Scanner;
-
-public class eaicumparssa {
 
 	public static void main(String[] Args) {
 		Scanner sc = new Scanner(System.in);  
@@ -38,7 +28,6 @@ public class eaicumparssa {
 	    }
 	    
 	}
-}
 -----------------------------------------------------------------------------------------------
 3-
 -------------------------------------------------------------------------------------------------
