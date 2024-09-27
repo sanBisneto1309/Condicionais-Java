@@ -1,13 +1,13 @@
 1-
-	public static void main(String[] Args) {
-		Scanner sc = new Scanner(System.in);
-	    System.out.println("Insira um número");
-	    int num = sc.nextInt();
-	    if(num >= 0) {
-	    	System.out.println(num + " não é negativo");
-	    } else {
-	    	System.out.println(num + " é Negativo");
-	    }   
+public static void main(String[] Args) {
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Insira um número");
+	int num = sc.nextInt();
+	if(num >= 0) {
+	System.out.println(num + " não é negativo");
+	} else {
+	System.out.println(num + " é Negativo");
+	}   
 	}
  
 -------------------------------------------------------------------------------------------
